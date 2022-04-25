@@ -1,3 +1,15 @@
 pull & push - https://github.com/kevinhofstetter3/LasreFractor.git
 
 hey 
+
+
+git add <link>
+git commit 
+git push
+
+
+git pull <link>
+	do changes to project
+git add * 
+git commit -m "message of whatever change I did" 
+git push <link> 
